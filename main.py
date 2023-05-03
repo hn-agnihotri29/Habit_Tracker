@@ -5,9 +5,9 @@ from datetime import datetime
 # https://pixe.la/v1/users/harshaja/graphs/graph1.html
 
 
-USERNAME = "harshaja"
-TOKEN = "shubh2910hna"
-GRAPH_ID = "graph1"
+USERNAME = "USERNAME"
+TOKEN = "USER_TOKEN"
+GRAPH_ID = "GRAPH_ID"
 
 # --------------Create an account ---------------------------------
 
